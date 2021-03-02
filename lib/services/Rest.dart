@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:http/http.dart' as http;
 
-const URL = 'http://192.168.56.1/estudo-api/api2/public/';
+const URL = 'https://www.hostcwb.com.br/webservice/public/';
 
 class Rest {
   final _headers = {
